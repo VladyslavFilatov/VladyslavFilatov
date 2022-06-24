@@ -10,8 +10,7 @@ During my studies I mastered Python, Java, Android, Kotlin, Swift, MySQL/MariaBD
 
 ### Languages and Tools
 
-![Swift](https://img.shields.io/badge/-Swift-FF6100?style=for-the-badge&logo=swift?logoColor=FF6100&show_logo=true
-)
+![Swift](https://img.shields.io/badge/-Swift-FF6100?style=for-the-badge&&show_logo=true&logo=swift?logoColor=FF6100)
 ![Java](https://img.shields.io/badge/-Java-FF1B00?style=for-the-badge&logo=Java?logoColor=FF1B00)
 ![Android](https://img.shields.io/badge/-Android-0000FF?style=for-the-badge&logo=Android?logoColor=0000FF)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-8D42FF?style=for-the-badge&logo=Kotlin?logoColor=8D42FF)
