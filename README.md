@@ -18,7 +18,7 @@ During my studies I mastered Python, Java, Android, Kotlin, Swift, MySQL/MariaBD
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-0061FF?style=for-the-badge&logo=Xcode&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-D81000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-00FFF7?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-00B2FF?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-038114?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-C77600?style=for-the-badge&logo=XAMPP&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-FF00F0?style=for-the-badge&logo=AdobeXD&logoColor=white)
