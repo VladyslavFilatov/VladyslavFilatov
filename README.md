@@ -10,9 +10,10 @@ During my studies I mastered Python, Java, Android, Kotlin, Swift, MySQL/MariaBD
 ### Languages and Tools
 
 ![Swift](https://img.shields.io/badge/swift-FF6100?style=for-the-badge&logo=swift&logoColor=white)
-![ReactNative](https://img.shields.io/badge/reactnative-0005FF?style=for-the-badge&logo=React&logoColor=white)
+![ReactNative](https://img.shields.io/badge/reactnative-29CBFA?style=for-the-badge&logo=React&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FF1B00?style=for-the-badge&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-0000FF?style=for-the-badge&logo=Android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD800?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-8D42FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-009712?style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8C0006?style=for-the-badge&logo=MySQL&logoColor=white)
