@@ -18,13 +18,15 @@ During my studies I mastered Python, Java, Android, Kotlin, Swift, MySQL/MariaBD
 ![HTML](https://img.shields.io/badge/HTML-EB6E00?style=for-the-badge&logo=html5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-8D42FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-009712?style=for-the-badge&logo=Python&logoColor=white)
+![C#](https://img.shields.io/badge/C#-820092?style=for-the-badge&logo=C#&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-8A8A8A?style=for-the-badge&logo=Unity&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-379200?style=for-the-badge&logo=Anaconda&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8C0006?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00AEFF?style=for-the-badge&logo=SQLite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-AFBCC2?style=for-the-badge&logo=Flask&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-0061FF?style=for-the-badge&logo=Xcode&logoColor=white)
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-D81000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-00B2FF?style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-038114?style=for-the-badge&logo=PyCharm&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-C77600?style=for-the-badge&logo=XAMPP&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-FF00F0?style=for-the-badge&logo=AdobeXD&logoColor=white)
 
 ### Follow Me
