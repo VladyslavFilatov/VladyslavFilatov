@@ -18,7 +18,7 @@ During my studies I mastered Python, Java, Android, Kotlin, Swift, MySQL/MariaBD
 ![HTML](https://img.shields.io/badge/HTML-EB6E00?style=for-the-badge&logo=html5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-8D42FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-009712?style=for-the-badge&logo=Python&logoColor=white)
-![C#](https://img.shields.io/badge/C#-820092?style=for-the-badge&logo=C#&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-820092?style=for-the-badge&logo=CSharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-8A8A8A?style=for-the-badge&logo=Unity&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-379200?style=for-the-badge&logo=Anaconda&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8C0006?style=for-the-badge&logo=MySQL&logoColor=white)
