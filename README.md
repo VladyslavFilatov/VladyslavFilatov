@@ -2,9 +2,9 @@ Hi there ✨🚀
 
 I'm Vladyslav Filatov!
 
-Year-two Mobile Devices App Development student, future App Developer. My passion for App Development brought me to the Instituto Superior de Tecnologias Avançadas de Lisboa, where I am working towards becoming a mobile App Developer.
+As a Junior Front-End Mobile App Developer, I am passionate about building mobile apps that make a difference. I have experience working with React Native.
 
-During my studies I mastered Swift, React Native, Java, Android, JavaScript, CSS, HTML, Python, Kotlin, C#, MySQL/MariaBD, SQLite, 3D Max, Adobe XD, Photoshop and Illustrator. I continue to build skills in programming languages and learn new things.
+In my work, I collaborate with experienced developers to design and implement features, write clean and efficient code, and ensure app functionality and stability through testing and debugging.
 
 
 ### Languages and Tools
