@@ -2,7 +2,7 @@ Hi there ✨🚀
 
 I'm Vladyslav Filatov!
 
-As a Junior Front-End Mobile App Developer, I am passionate about building mobile apps that make a difference. I have experience working with React Native.
+As a Front-End Mobile App Developer, I am passionate about building mobile apps and websites that make a difference. I have experience working with React Native and React js.
 
 In my work, I collaborate with experienced developers to design and implement features, write clean and efficient code, and ensure app functionality and stability through testing and debugging.
 
