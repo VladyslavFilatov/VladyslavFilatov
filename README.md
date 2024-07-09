@@ -31,7 +31,3 @@ I am a highly skilled front-end developer with a passion for creating intuitive 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00BCF9?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vladyslav-filatov-71671619a/)
 [![Instagram](https://img.shields.io/badge/Instagram-DE0000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/v.l.a.d.f.i.l.a.t.o.v/)
 [![Facebook](https://img.shields.io/badge/Facebook-0043C8?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005000891924)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladyslavFilatov&size_weight=0.5&count_weight=0.5&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladyslavFilatov&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
