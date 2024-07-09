@@ -14,16 +14,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Update README with GitHub stats
-        env:
-          GITHUB_TOKEN: ${{ secrets.STATS_INFO }}
+      - name: Read current README
+        id: readme
         run: |
-          echo "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladyslavFilatov&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&token=${STATS_INFO})](https://github.com/anuraghazra/github-readme-stats)" > README.md
+          cat README.md > current_readme.md
+
+      - name: Update README with GitHub stats
+        id: update_readme
+        run: |
+          echo -e "\n\n[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladyslavFilatov&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&token=${{ secrets.STATS_INFO }})](https://github.com/anuraghazra/github-readme-stats)" >> current_readme.md
+          cat current_readme.md > README.md
 
       - name: Commit and push if README changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff-index --quiet HEAD || git commit -m "Update README with GitHub stats"
+          git diff --exit-code || git commit -m "Update README with GitHub stats"
           git push
