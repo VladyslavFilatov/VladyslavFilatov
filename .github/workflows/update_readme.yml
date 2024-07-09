@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with GitHub stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_INFO }}
+        run: |
+          echo "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladyslavFilatov&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&token=${STATS_INFO})](https://github.com/anuraghazra/github-readme-stats)" > README.md
+
+      - name: Commit and push if README changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "Update README with GitHub stats"
+          git push
